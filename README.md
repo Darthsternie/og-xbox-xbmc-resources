@@ -28,3 +28,5 @@ fanart.jpg
 icon.jpg
 poster.jpg
 thumb.jpg
+
+All Video Games, Names and Trademarks shown in these Resource Packs belong to their original Publishers/Trademark holders.
